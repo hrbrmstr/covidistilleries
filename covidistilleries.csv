@@ -1,0 +1,340 @@
+id,distillery,address,city,location,postal_code,state_abbrev,address_line2,phone_number,sizes,website
+2F12141112000001,Bendt Distilling Co.,225 S Charles St,Lewisville,Texas,"75057",TX,,,,
+2F12141112000002,Divine Distillers,2195 Hyacinth St. NE,Salem,Oregon,"97301",OR,#148,,,
+2F12141112000003,Koval Distillery,5121 N Ravenswood Ave,Chicago,Illinois,"60640",IL,,,,
+2F12141112000004,Dry Fly Distilling Inc.,"1003 E Trent, #200",Spokane,Washington,"99202",WA,,,,
+2F12141112000005,Twin Valley Distillers,"711 E Gude Dr, Bay D",Rockville,Maryland,"20850",MD,,,,
+2F12141112000006,Eight Oaks Farm Distillery,7189 PA-309,New Tripoli,Pennsylvania,"18066",PA,,,,
+2F12141112000007,Claremont Distilled Spirits,25 Commerce Rd,Fairfield,New Jersey,"7004",NJ,unit K,,,
+2F12141112000008,Shine Distillery & Grill,4232 North Williams Ave,Portland,Oregon,"97217",OR,,,,
+2F12141112000009,Hotel Tango Whiskey,1101 E 16th St,Indianapolis,Indiana,"46202",IN,,,,
+2F1214111200000A,Switchgrass Spirits,6100 Idadale Ave,St. Louis,Missouri,"63133",MO,,,,
+2F1214111200000B,Karrikin Spirits,3717 Jonlen Drive,Fairfax,Ohio,"45227",OH,,,,
+2F1214111200000C,Fox Trail Distillery,2121 S. Bellview RD,Rogers,Arkansas,"72758",AR,,,,
+2F1214111200000D,CH Distillery,564 W Randolph St,Chicago,Illinois,"60661",IL,,,,
+2F1214111200000E,Smugglers' Notch Distillery,276 Main St Rt 108S,Jeffersonville,Vermont,"5464",VT,,,,
+2F1214111200000F,Old Glory Distilling,451 Alfred Thun Rd,Clarksville,Tennessee,"37040",TN,,,,
+2F12141112000010,Outer Banks Distilling,510 Budleigh St,Manteo,North Carolina,"27954",NC,,,,
+2F12141112000011,18th Street Distillery,"5417 Oakley Avenue, Suite #1",Hammond,Indiana,"46320",IN,,,,
+2F12141112000012,Berkshire Mountain Distillers,356 S Main St,Sheffield,Massachusetts,"1257",MA,,,,
+2F12141112000013,Broad Branch Distillery,756 N Trade St,Winston Salem,North Carolina,"27101",NC,,,,
+2F12141112000015,Durham Distillery,711 Washington ST,Durham,North Carolina,"27701",NC,,,,
+2F12141112000016,J&L Distilling,4343 Pearl St #1,Boulder,Colorado,"80301",CO,,,,
+2F12141112000017,Talnua Distillery & Tasting Room,"5405 W 56th Ave., Unit C",Arvada,Colorado,"80002",CO,,,,
+2F12141112000018,Caledonia Spirits,116 Gin Lane,Montpelier,Vermont,"5602",VT,,,,
+2F12141112000019,Mad River Distillers,89 Mad River Green,Waitsfield,Vermont,"5673",VT,,,,
+2F1214111200001A,Mammoth Distilling,221 Garland St,Traverse City,Michigan,"49684",MI,,,,
+2F1214111200001B,Patapsco Distilling Company,7609 Main St,Sykesville,Maryland,"21784",MD,,,,
+2F1214111200001C,Liberty Call Distilling,"2739 Via Orange Way, Ste 110",Spring Valley,California,"91978",CA,,,,
+2F1214111200001D,Cotton & Reed,1330 5th St. NE,Washington,District of Columbia,"20002",DC,,,,
+2F1214111200001E,Blue Clover Distillery,7042 E Indian School Rd,Scottsdale,Arizona,"85251",AZ,,,,
+2F1214111200001F,Desert Door,211 Darden Hill Road,Driftwood,Texas,"78619",TX,A 211,,,
+2F12141112000020,Old Forge Distillery,170 Old Mill Ave,Pigeon Forge,Tennessee,"37863",TN,,,,
+2F12141112000021,Junction 35,2655 Teaster Ln,Pigeon Forge,Tennessee,"37863",TN,suite 280,,,
+2F12141113000022,Firestone & Robertson Distilling,901 West Vickery Blvd,Fort Worth,Texas,"76104",TX,,,,
+2F12141113000023,Bier Distillery,"5295 West River Dr, Suite 100",Comstock Park,Michigan,"49321",MI,,,,
+2F12141113000024,Tree Spirits,152 Fairfield St,Oakland,Maine,"4963",ME,,,,
+2F12141113000025,Thinking Tree Spirits,88 Jackson Street,Eugene,Oregon,"97402",OR,,,,
+2F12141113000026,Mississippi River Distilling Company,303 N Cody Rd,Le Claire,Iowa,"52753",IA,,,,
+2F12141113000027,Charboneau Distillery,619 Jefferson St,Natchez,Mississippi,"39120",MS,,,,
+2F12141113000028,Crittenden Distillery,19193 Highway 43,Kiln,Mississippi,"39556",MS,,,,
+2F12141113000029,Dread River Distilling Company,2400 7th Avenue South,Birmingham,Alabama,"35233",AL,,,,
+2F1214111300002A,List Distillery,3680 E Evans Ave,Fort Myers,Florida,"33901",FL,,,,
+2F1214111300002B,Ogden's Own Distillery,"3075 Midland Dr, #4",Odgen,Utah,"84401",UT,,,,
+2F1214111300002C,Ugly Dog Distillery,14496 N Territorial Rd,Chelsea,Michigan,"48118",MI,,,,
+2F1214111300002D,Town Branch Distillery,401 Cross St,Lexington,Kentucky,"40508",KY,,,,
+2F1214111300002E,Wigle Whiskey,2401 Smallman St,Pittsburgh,Pennsylvania,"15222",PA,,,,
+2F1214111300002F,Krobar Craft Distillery,2174 Hwy 46 West,Paso Robles,California,"93446",CA,,,,
+2F12141113000030,Chambers Bay Distillery,2013 70th Ave W,University Place,Washington,"98466",WA,,,,
+2F12141113000031,Napa Valley Distillery,2485 Stockton Street,Napa,California,"94559",CA,,,,
+2F12141113000032,Ironton Distillery and Crafthouse,3636 Chestnut Pl,Denver,Colorado,"80216",CO,,,,
+2F12141113000033,New York Distilling Company,79 Richardson St,Brooklyn,New York,"11222",NY,,,,
+2F12141113000034,Cardinal Spirits,922 S Morton St,Bloomington,Indiana,"47401",IN,,,,
+2F12141113000035,Solar Spirits,2409 Robertson Dr,Richland,Washington,"99354",WA,,,,
+2F12141113000036,Whiskey Acres Distilling Co.,11504 Keslinger Rd,DeKalb,Illinois,"60115",IL,,,,
+2F12141113000037,Falcon Spirits,3701 Collins Ave Bldg 1C,Richmond,California,"94806",CA,,,,
+2F12141113000038,American Fifth Spirits,112 N Larch St,Lansing,Michigan,"48912",MI,,,,
+2F12141113000039,St. Louis Distillery,"755 Friedens Rd, Suite B",St Charles,Missouri,"63303",MO,,,,
+2F1214111300003A,La Crosse Distilling Co.,129 Vine Street,La Crosse,Wisconsin,"54601",WI,,,,
+2F1214111300003B,Blinking Owl Distillery,802 E Washington Ave,Santa Ana,California,"92701",CA,,,,
+2F1214111300003C,Castle Spirits,18 Quickway Road,Monroe,New York,"10950",NY,unit 201,,,
+2F1214111300003D,Deviation Distilling,900 W 1st Ave,Denver,Colorado,"80223",CO,suite #150,,,
+2F1214111300003E,Square One Brewery & Distillery,1727 Park Ave,St. Louis,Missouri,"63104",MO,,,,
+2F1214111300003F,Ironton Distillery,3636 Chestnut Pl,Denver,Colorado,"80216",CO,,,,
+2F12141113000040,Cooperstown Distillery,11 Railroad Ave,Cooperstown,New York,"13326",NY,,,,
+2F12141113000041,Freeland Spirits,2671 NW Vaughn St,Portland,Oregon,"97210",OR,,,,
+2F12141113000042,Broken Trail,2921 Stanford Dr NE,Albuquerque,New Mexico,"87107",NM,,,,
+2F12141113000043,Chesapeake Bay Distillery,2669 Production Rd,Virginia Beach,Virginia,"23454",VA,,,,
+2F12141113000044,John Emerald Distilling Co,706 N Railroad Ave,Opelika,Alabama,"36801",AL,,,,
+2F12141113000045,Buffalo Distilling,860 Seneca St,Bufffalo,New York,"14210",NY,,,,
+2F12141113000046,Sangfroid Distilling,5130 Baltimore Ave,Hyattsville,Maryland,"20781",MD,,,,
+2F12141113000047,Proof Artisan Distillers,414 4th Ave N.,Fargo,North Dakota,"58102",ND,,,,
+2F12141113000048,Sanctuary Spirits,902 E. Saginaw Hwy,Grand Ledge,Michigan,"48837",MI,,,,
+2F12141114000049,Tennessee Hills Distillery,127 Fox St,Jonesborough,Tennessee,"37659",TN,,,,
+2F1214111400004A,Smoky Quartz Distillery,894 Lafayette Rd,Seabrook,New Hampshire,"3874",NH,,,,
+2F1214111400004B,Amalga Distillery,134 N Franklin St,Juneau,Alaska,"99801",AK,,,,
+2F1214111400004C,Old Dominick Distillery,305 S. Front St,Memphis,Tennessee,"38103",TN,,,,
+2F1214111400004D,J. Rieger & Co.,2700 Guinotte Ave,Kansas City,Missouri,"64120",MO,,,,
+2F1214111400004E,1220 Artisan Spirits,1220 S 8th St,Saint Louis,Missouri,"63104",MO,,,,
+2F12141114000050,Chronicles Distilling,1506 Thomes Ave,Cheyenne,Wyoming,"82001",WY,,,,
+2F12141114000051,Wolf Spirit,121 Monroe street,Eugene,Oregon,"97402",OR,,,,
+2F12141114000052,Lazy Eye Distillery,1328 Harding Highway,Richland,New Jersey,"8350",NJ,,,,
+2F12141114000053,Prohibition Distillery,10 Union St,Roscoe,New York,"12776",NY,,,,
+2F12141114000054,Red Cedar Spirits,2000 Merritt Road,East Lansing,Michigan,"48823",MI,,,,
+2F12141114000055,Beam Suntory,4925 Carriage Pass Place,Louisville,Kentucky,"40299",KY,,,,
+2F12141114000056,Gia Distillery,203 E Murphy St,Madison,North Carolina,"27025",NC,,,,
+2F12141114000057,St. Augustine Distillery,112 Riberia St.,St. Augustine,Florida,"32084",FL,,,,
+2F12141114000058,Tattersall Distilling,"1620 Central Ave NE, Suite 150",Minneapolis,Minnesota,"55413",MN,,,,
+2F12141114000059,Corsair Artisan Distillery,1200 Clinton St,Nashville,Tennessee,"37203",TN,#110,,,
+2F1214111400005A,Sandstone Distillery,842 Wright Rd SE,Tenino,Washington,"98589",WA,,,,
+2F1214111400005B,Fish Hawk Spirits,16350 SW 20th Lane,Ocala,Florida,"34481",FL,,,,
+2F1214111400005C,Six & Twenty Distillery,3109 Highway 153,Piedmont,South Carolina,"29673",SC,,,,
+2F1214111400005D,Quantum Spirits,230 E Main St  Suite 200,Carnegie,Pennsylvania,"15106",PA,,,,
+2F1214111400005E,Valentine Distilling Co.,965 Wanda St,Ferndale,Michigan,"48220",MI,,,,
+2F1214111400005F,Lost State Distilling,200 State St,Bristol,Tennessee,,,,423-797-4432,4oz & 64oz,loststatedistilling.com
+2F12141114000060,Corsair Distillery,601 Merritt Ave,Nashville,TN,,,,(615) 200-0320,Using 750ml bottle inventory for now. Will have smaller sizes soon.,Corsairdistillery.com
+2F12141114000061,Main Street Moonshine,101 W Main St,Schuylkill Haven,PA,,,,570-449-2204,2 oz,Www.mainstreetmoonshine.com
+2F12141114000062,Burlock and Barrel Distillers of Florida,417 Magnolia St,Jacksonville,FL,,,,(904) 372-0856,4oz and 2oz bottles,Burlockandbarrel.com
+2F12141114000063,Crostwater,506 Industrial Drive,Lewisberry,PA,,,,"7178848493",2oz and spray bottles,Crostwater.com
+2F12141114000064,Falls Church Distillers,442-A South Washington Street,Falls Church,VA,,,,"7038589186","Quart, half gallon and gallon",www.FCDistillers.com
+2F12141114000065,Sông Cái Distillery,"Dong Du, Gia Lam",Hanoi,Vietnam,,,,,100ml and 500ml,www.songcaidistillery.com
+2F12141114000066,Fraser Valley Distilling,"410 Zerex St, Box 430",Fraser,CO,,,,970-363-7792,4oz,www.fraservalleydistilling.com
+2F12141114000067,Heathermeade Distilling,835 Fairfield Avenue,Kenilworth,NJ,,,,908-514-8429,"4oz, 8oz, 16oz",www.treecityspirits.com
+2F12141114000068,Donum Dei Brewery/ Distillery,3211 Grantline Rd.,New Albany,Indiana,,,,"8125902478",12 oz bring your own bottle,Donumdeibrewery.com
+2F12141114000069,Boardroom Spirits,575 W 3RD ST,LANSDALE,PA,,,,"2676429961","4 oz for free, 1 liter bottle $25, 1 case of 12 each 1 liter bottle $240, 5 gallon bucket for $350",boardroomspirits.com
+2F1214111400006A,Copper Bottom Craft Distillery,998 N. Beach St.,Holly Hill,FL,,,,386-267-5104,"4 oz bottles for individuals and bulk for health care clinics, first responders and assisted living communities",copperbottomspirits.com
+2F1214111400006B,Triple Sun Spirits Company,518 Bank St - Unit A,Emmaus,PA,,,,"6109048082",32 ounces,Triplesunspirits.com
+2F1214111400006C,Capital Distillery,32 Learned Street,Albany,NY,,,,518-594-0175,6 ounce,https://CDistillery.com
+2F1214111400006D,Local Distilling,417 violet st,Golden,Colorado,,,,"3036680722",16 0z,www.vanjakvodka.com
+2F1214111400006E,Two James Spirits,2445 Michigan Avenue,Detroit,MI,,,,313.964.4800,"5 gallon, 1 gallon, 16 oz, 8 oz",www.twojames.com
+2F1214111400006F,Thornton Distilling Company,400 E. Margaret St,Thornton,Il,,,,(708) 877-6222,2.5 oz,Thorntondistilling.com
+2F12141114000070,The Industrious Spirit Company,1 Sims Avenue #103,Providence,RI,,,,(401) 626-4696‬,"whatever size bottles we can get our hands on. supplies are very limited, we don't want anyone to be disappointed but we have just started production and are doing our best to help the community how we can.",www.iscospirits.com
+2F12141114000071,Denver distillery,244 S Broadway,Denver,Co,,,,(720) 381-3226,4 ounce. 50 ml,Www.denverdistillery.com
+2F12141114000072,New Basin Distilling Company,2063 NW Andrews Drive,Madras,OR,,,,"5419804595","Bulk, gallon, 1/2 gallon, quarts, 375ml, 8 ounces and 4 ounce","www,new basin.com"
+2F12141114000073,Candella micro-distillery LLC,4440 Market St,Boardman,Ohio,,,,330-518-5006,Donate 50ml,Candella - Distillery
+2F12141114000074,Western Son Distillery,217 W Division Street,Pilot Point,Texas,,,,940-324-0008,50mL,www.westernsondistillery.com
+2F12141114000075,Oregon Grain Growers Distillery,511 SE Court Ave,Pendleton,OR,,,,(541) 276-0070,,https://www.oregongrain.com/
+2F12141114000076,Candella Micro-Distillery,4440 Market Street,Boardman,Ohio,,,,"3305185006",50 ml bottles,https://candella-distillery.com/
+2F12141114000077,Dehner Distillery,"7500 University Ave, Suite-E",Clive,Iowa,,,,515-559-4879,"1.75 Liter, Bulk",www.dehnerdistillery.com
+2F12141114000078,Springbrook Hollow Farm Distillery,133 Clements rd,Queensbury,Ny,,,,518-338-3130,2 oz,Www.springbrookhollow.com
+2F12141114000079,ChainBridge Distillery,3500 NE 11th Ave.,Oakland Park,Florida,,,,954.900.3924,30 ml,https://www.facebook.com/ChainBridgeDistillery
+2F1214111400007A,Rogue Spirits,2320 Marine Science Dr,Newport,OR,,,,541-867-3660,4oz and 16oz,www.rogue.com
+2F1214111400007B,MISCellaneous Distillery,114 South Main Street,Mount Airy,MD,,,,"2403946472",2 oz and 3.5 gallon (for bulk sanitizer production),www.miscdistillery.com
+2F1214111400007C,Djinn Spirits,"2 Townsend West, STE 9",NASHUA,NH,,,,603-262-1812,8 oz,www.djinnspirits.com
+2F1214111400007D,Thorn Distillery,4717 Priem Lane #901,Pflugerville,Texas,,,,"5129939197",1oz - 24oz,www.Drinkthorn.com
+2F1214111400007E,Hotel Tango Distillery,702 Virginia Avenue,Indianapolis,IN,,,,"2602242743","4 oz, 25 oz, 1 quart, bulk",www.hoteltangowhiskey.com
+2F1214111400007F,"Shelter Distilling, Inc.",100 Canyon Blvd. Suite 217,Mammoth Lakes,CA,,,,"7607092174",8 ounces,www.shelterdistilling.com
+2F12141114000080,Chicago Distilling Company,2359 N. Milwaukee Ave,Chicago,Illinois,,,,"8722062774",1 gallon,www.chicagodistilling.com
+2F12141114000081,Whidbey Island Distillery,3466 Craw Road,Langley,Washington,,,,"6192485826",Bulk Ethanol 55 gal. minimum,"www,whidbeydistillery.com"
+2F12141114000082,Hartford Flavor Company,"30 Arbor Street, Suite 107",Hartford,Connecticut,,,,"8603381642","2 oz, 4 oz, 375ml, 750ml",hartfordflavor.com
+2F12141114000083,The White Dog Distilling Company,1357 Central Avenue,Middletown,Ohio,,,,513-800-3411,8 oz pump bottles and 1 gallon bottles,whitedogdistillingco.com
+2F12141114000084,A.W. Craft Distillery,274 Buck Bend,GEORGETOWN,TX,,,,"5126775209",tbd,awcraftdistillery.com
+2F12141114000085,HYE Rum,11247 W US Highway 290,Hye,TX,,,,"5124120739",Various,www.hyerum.com
+2F12141114000086,Shmidt Spirits,10360 Southard Dr,Beltsville,MD,,,,"2814676875",4 ounces,ShmidtSpirits.com
+2F12141114000087,Western Reserve Distillers,14221 Madison Ave,Lakewood,Ohio,,,,216 333-9291,1 gallon,www.westernreservedistillers.com
+2F12141114000088,Axe and the Oak Distillery,1604 S. Cascade Ave.,Colorado Springs,CO,,,,719-660-1624,1 oz.,www.axeandtheoak.com
+2F12141114000089,Vitae Spirits Distillery,715 Henry Ave,Charlottesville,VA,,,,"4342700317","2, 4, 8, 12 oz and growler fills",www.vitaespirits.com
+2F1214111400008A,Northern Row Brewery & Distillery,111 West McMicken Ave,Cincinnati,OH,,,,"5134367000",6 oz,www.northernrow.com
+2F1214111500008B,Crawford Distillery,336 2nd st,Havre,MT,,,,"6198202963",4oz,www.crawforddistillery.com
+2F1214111500008C,"Rebecca Creek Distillery, LLC",26605 Bulverde Road,San Antonio,"Texas, 78260",,,,830-714-4581,100 ml to 1 gallon to bulk,www.rebeccacreekdistillery.com
+2F1214111500008D,Cat's Eye Distillery,3232 Bear Tooth Ct,Bettendorf,IA,,,,"15635056912",Gallons jugs,catseyedistillery@aol.com
+2F1214111500008E,Beach Time Distilling,"32191 Nassau Rd, Unit #5",Lewes,Delaware,,,,"3026442850",1-gallon & 2-ounces,www.beachtimedistilling.com
+2F1214111500008F,"Imperial Spirits, LLC",703 Industry Way Suite 1,El Centro,CA,,,,"6198086334",8oz,www.imperialspiritsusa.com
+2F12141115000090,Sun Coast Loaded Cannon,3115 LAKEWOOD RANCH BLVD,BRADENTON,FLORIDA,,,,"9857032333","50, 150 ml",https://www.loadedcannondistillery.com/
+2F12141115000091,Alchemist Distilleries Inc.,6468 nw 77th ct,maimi,USA,,,,305-491-7352,12 and 16 oz,
+2F12141115000092,SoNo 1420 American Craft Distillers,19 Day St,Norwalk,Connecticut,,,,203 635-2100,1 oz,www.SoNo1420.com
+2F12141115000093,Derelict Airship LLC,704 Hwy 71 West Unit B300,Bastrop 78660,Texas,,,,512-766-5090,32oz (liter) and 128oz (gallon),www.derelictairship.com
+2F12141115000094,End of Days Distillery,1815 Castle St.,Wilmington,North Carolina,,,,910-399-1133,"2oz; 4oz; 1 Gal; 2.5 gal",www.eoddistillery.com
+2F12141115000095,Brickway Brewery and Distillery,1116 Jackson Street,Omaha,Nebraska,,,,402-933-2613,50mL with other sizes to follow,www.drinkbrickway.com
+2F12141115000096,Stone Barn Brandyworks,3115 SE 19th Suite B,Portland,Oregon,,,,503341-2227,varies,www.stonebarnbrandyworks.com
+2F12141115000097,Silverback Distillery Poconos,132 Airstrip Road,East Stroudsburg,Pennsylvania,,,,570-206-7070,4 ounce bottles,sbdistillery.com
+2F12141115000098,Garrison Brothers Distillery,1827 Hye Albert Road,Hye,Texas,,,,"8303920246",4ounce,Www.garrisonbros.com
+2F12141115000099,Hammer Spring Distillers,3697 W 1987 S,Salt Lake City,UT,,,,801-599-4704,2 - 5 oz,www.hammerspring.com
+2F1214111500009A,Desert Door Texas Sotol,211 Darden Hill Rd. Ste A200,Driftwood,TX,,,,"5128296129",8 oz,www.desertdoor.com
+2F1214111500009B,Iron Vault Distillery,134 Harding Way West,Galion,OH,,,,"4197747400",2 oz and 750ml. Maybe 4 or 8 oz depending on ability to get bottles.,www.ironvaultdistillery.com
+2F1214111500009C,Lock 1 Distilling Co.,17 Culvert St,Phoenix,Ny,,,,315-934-4376,16oz,www.lock1distillingco.com
+2F1214111500009D,Warrior Liquor (Liquid Brands Distillery),714 N. Lee Street,Spokane,WA,,,,509 413-1885,varied,warriorliquor.com
+2F1214111500009E,Sourland Mountain Spirits,130 Hopewell - Rocky Hill Road,Hopewell,NEW JERSEY,,,,"6093338575",64oz / 6oz,www.sourlandspirits.com
+2F1214111500009F,OOLA Distillerey,1314 East Union Street,Seattle,WA,,,,206 709 7909,2oz and up,ooladistillery.com
+2F121411150000A0,Hilton Head Distillery,14 CARDINAL ROAD,HILTON HEAD ISLAND,SC,,,,(843) 686-4443,375ml,hiltonheaddistillery.com
+2F121411150000A2,Glass Distillery,1712 1st Ave S,Seattle,WA,,,,"2067438070",From one ounce bottles to multiple gallon jugs.,www.glassvodka.com
+2F121411150000A3,Alley 6 Craft Distillery,"1401 Grove St., Unit D",Healdsburg,CA,,,,"7074843593","2oz free, bulk for purchase",Www.alley6.com
+2F121411150000A4,Bent Brewstillery,1744 Terrace Dr,Roseville,Minnesota,,,,"8008792368",3-oz and 64-oz,BentBrewstillery.com
+2F121411150000A5,XXX distillery,3303 wears valley rd,SEVIERVILLE,Tennessee,,,,"8656041145",50ml bottles and sanitation wipes,Xxx distillery.com
+2F121411150000A6,Rich Grain Distilling Co.,339 W Peace St,Canton,MS,,,,601-391-3190,Various Sizes,www.richdistilling.com
+2F121411150000A7,Rock Town Distillery,1201 Main St,Little Rock,Arkansas,,,,"5019075244","200ml for donation, 100 gallons for sale to first responders and hospitals.",rocktowndistillery.com
+2F121411150000A9,451 Spirits,590-D Oakland Park Avenue,Columbus,Ohio,,,,614 929 3836,Approximately 2 oz,www.451spirits.com
+2F121411150000AA,Wood's High Mountain Distillery,144 W 1st St,Salida,CO,,,,"7192074315",50ml,woodsdistillery.com
+2F121411150000AB,La Crosse Distilling Company,129 Vine Street,La Crosse,WI,,,,(608) 881-8800,"2-4oz, gallon and larger",www.lacrossedistilling.co
+2F121411150000AC,Bully Boy Distillers,44 Cedric Street,Roxbury,MA,,,,"6174426000",4 oz,www.bullyboydistillers.com
+2F121411150000AD,Idlewild Spirits,"78737 US Hwy 40, Unit 1000",Winter Park,CO,,,,"9702815773",Fill your own up to 12 oz.,idlewildspirits.com
+2F121411150000AE,Lucky Sign Spirits,3500 Spring Garden Dr,Pittsburgh,PA,,,,"-",16oz,LuckySignSpirits.com
+2F121411150000AF,Westford Hill Distillers,196 Chatey Road,Ashford,CT,,,,"8604290464",12oz,www.westfordhill.com
+2F121411150000B0,Wiggly Bridge Distillery,441 US Rt 1,York,ME,,,,"2073639322",BYOB,www.WigglyBridgeDistillery.com
+2F121411150000B1,Barnstormer Distillery (DBA GrantView Distillery),6969 S Main St,Rockford,IL,,,,815-269-4069,Various,Https:\\GVDistillery.com
+2F121411150000B2,Flag Hill Distillery,297 N River Rd,Lee,NH,,,,603 659 2949,5 gallons,flaghill.com
+2F121411150000B3,Pennsylvania Distilling Company,50 Three Tun Rd Ste 3,Malvern,"PA, 19355",,,,484-557-6578,2 oz,www.penndistilling.com
+2F121411150000B4,Pine Tavern Distillery,149a pine tavern rd,Monroeville,New Jersey,,,,"8563581076",4oz and 64oz for first responders,www.pinetaverndistillery.com
+2F121411150000B5,Iron Fish Distillery,14234 Dzuibanek Road,Thompsonville,Michigan,,,,"2313783474",Several sizes,www.ironfishdistillery.com
+2F121411150000B6,VÖKIN LLC/VÖKIN VODKA Distillery,710 Junction St.,Plymouth,MI,,,,313-815-5536,50ml,www.vokinvodka.com
+2F121411150000B7,Lost Ark Distilling Company,9570 Berger Rd,Columbia,MD,,,,"4432796178",N/A,www.lostarkdistilling.com
+2F121411150000B8,Old Glory Distilling Co.,451 Alfred Thun Rd.,Clarksville,Tennessee,,,,"9319192522","2.7oz, 4oz, 16oz",www.oldglorydistilling.com
+2F121411150000B9,Steelbound brewery and distillery,6600 rt 219,EllicottVille,NY,,,,716 9971444,Waiting to make it to see if there is a need,Steelboundevl.com
+2F121411150000BA,Grateful Dane Distilling Co.,5250 Gulfton St. Suite 1H,Houston,Texas(TX),,,,"2816368001",Whatever size bottles we can get.,gratefuldanedistilling.com
+2F121411150000BB,Nightside Distillery,"2908 Meridian Ave E., suite 116",Edgewood,Washington,,,,"2533771379","50ml, 2oz, 8oz, .5-5 gallon",Www.nightsidedistillery.com
+2F121411150000BC,Roulaison Distilling Co,"2727 South Broad st, STE#103",New Orleans,LA,,,,504-517-4786,TBD,https://www.roulaison.com/
+2F121411150000BD,Loon Liquor Company,1325 Armstrong Rd,Northfield,MN,,,,(507) 403-0178,4oz,www.loonliquors.com
+2F121411160000BE,Mythology Distillery,3622 Tejon Street,Denver,CO,,,,"7204580501",2 oz and refills,www.mythologydistillery.com
+2F121411160000BF,Coppercraft Distillery,184 120th Street,Holland,MI,,,,616-796-8274,gal and half gal jugs for hospital and healthcare facilities. sourcing 32 oz containers now.,www.coppercraftdistillery.com
+2F121411160000C0,Great Wagon Road Distilling Co.,"The Mill @ OMB, 4210 Yancey Road",Charlotte,NC,,,,"7044699330",Free Refills,www.gwrdistilling.com
+2F121411160000C1,Three Rivers Distilling Company,224 East Wallace St,Fort Wayne,IN,,,,"2607459355",Quantities of 16 oz.,https://www.3rdistilling.com/
+2F121411160000C2,Whistling Hare Distillery,"7655 W 108th Ave., Unit 400",Westminster,CO,,,,720-335-6009,Currently 4oz but evaluating,Whistlinghare.com
+2F121411160000C3,Port Chilkoot Distillery,35 Totem St.,Haines,Alaska,,,,907-766-3434,2 oz. + larger quantities by special request,www.portchilkootdistillery.com
+2F121411160000C4,Smooth Ambler Spirits,745 Industrial Park Road,Maxwelton,West Virginia,,,,"3044973123",,www.smoothambler.com
+2F121411160000C5,Young & Yonder Spirits,449 Allan Ct,Healdsburg,CA,,,,"7074738077",50ml,youngandyonderspirits.com
+2F121411160000C6,Athens West End Distillery,237 West State St,Athens,Ohio,,,,"17404166380",4oz and Fill your bottle by the ounce,AthensWestEnd.com
+2F121411160000C7,Solar Spirits Distillery,2409 Robertson Dr,Richland,Washington,,,,(509) 371-1622,Free 80ml bottles and make your own kits for $20 (makes 11 x 80ml bottles),https://solarspirits.com/shop/vodka/high-proof-vodka-hand-gel-kit-call-ahead-pickup-only/
+2F121411160000C8,Ballmer Peak Distillery,12347 W Alameda Pkwy,Lakewood,Colorado,,,,(720) 316-5824,4oz,https://ballmerpeakdistillery.com
+2F121411160000C9,Sugar Works Distillery,1714 State Road 44,New Smyrna Beach,FL,,,,386-463-0120,multiple sizes,www.sugarworksdistillery.com
+2F121411160000CA,Falcon Spirits Distillery,3701 Collins Avenue 1C,Richmond,California,,,,"5102343252","2oz, 16oz",falconspirits.com
+2F121411160000CB,Lass & Lions,4295 Cromwell Rd,Chattanooga,TN,,,,"4237084698",right now 8oz because we got donated bottles but we are also refilling containers from 5 gallon batches.,www.lassandlions.com
+2F121411160000CC,Lee Spirits Company,110 E. Boulder St.,Colorado Springs,CO,,,,"3529883814",2oz,leespirits.com
+2F121411160000CD,Train Wreck Distillery,25 Madison Ave,Mount Holly,Nj,,,,609-288-6300,375ml,Www.Trainwreckdistillery.com
+2F121411160000CE,Hanalei Spirits Distillery,4241 Kahili Makai st,Kilauea,HI,,,,"8084821031",60ml/100ml,www.hanaleispirits.com
+2F121411160000CF,Lake House Distilling Company,218 West Fifth st,Waynesboro,PA,,,,"3015736988",2 and 4 oz,Alake@lakehousedistillingco.com
+2F121411160000D0,Vermont Distillers,"Vermont Distillers, Inc.",WEST MARLBORO,VT,,,,802 464 2003,Bring your own container,www.vermontdistillers.com
+2F121411160000D1,Litchfield Distillery,569 Bantam Rd,Litchfield,CT,,,,"8603616503",Many,Www.litchfielddistillery.com
+2F121411160000D2,Rush Creek Distilling,1501 W. Diggins,Harvard,IL,,,,"8159437874",filling customer containers until we can get appropriate bottles,rushcreekdistilling.com
+2F121411160000D3,Divine distillery,2475 25th street,Salem,Oregon,,,,"9713280717",Depends,Www.divinedistillers.com
+2F121411160000D4,Twisted Path Distillery,2018 S. 1st St.,Milwaukee,WI,,,,414-405-8900,bulk. 5 gallon buckets,www.twistedpathdistillery.com
+2F121411160000D5,Peak Spirits at Jack Rabbit Hill Farm,26567 North Road,Hotchkiss,CO,,,,970-234-9463,1LTR bottle,www.jackrabbithill.com
+2F121411160000D6,NOCO Distillery,"328 S. Link Ln, Ste 11",Fort Collins,Colorado,,,,"9704147188",4 oz bottles,https://www.nocodistillery.com
+2F121411160000D7,28 Mile Vodka co,454 Sheridan rd,Highwood,IL,,,,847-748-8090,2 oz 16 oz,28milevodka.com
+2F121411160000D8,Old Ozarkian Distillery LLC,1615 Hackberry Drive,Union,Missouri,,,,"3147991738",Based on need,Old Ozarkian distillery.com
+2F121411160000D9,Fire Oak Distillery,4600 County Road 207,Liberty Hill,TX,,,,512-515-6611,750ml,www.FireOakDistillery.com
+2F121411160000DA,Old Word Spirits / Kuchan Cellars,"121 Industrial road,#3-4",Belmont,CA,,,,"6504951009",TBD,Www.oldworldspirits.com
+2F121411160000DB,Charbay Distillery,3001 South State Street #48,Ukiah,CA,,,,707-462-2249,"8 oz atomizer, 5 gallon bucket",https://charbay.com/
+2F121411160000DC,Surf City Still Works,7242 Heil Ave,Huntington Beach,CA,,,,714-473-2911,Bring your own container,www.surfcitystillworks.com
+2F121411160000DD,"Waterman's Distillery, LLC",6172 State Route 434,Apalachin,NY,,,,607-258-0274,3oz,https://www.watermansdistillery.com/
+2F121411160000DE,Boundary Oak Distillery llc,2000 Boundary Oak Dr,Radcliff,KY,,,,"2703512013",800 mil and 50 mill,boundaryoakdistillery.com
+2F121411160000DF,Twelve 33 Distillery,593 Hwy 90 E,Little River,SC,,,,(843) 663-3344,4 oz,www.twelve33distillery.com
+2F121411160000E0,Loggerhead Distillery,124 W 2nd Street,Sanford,Florida,,,,321-800-8566,"2 oz, 4 oz",loggerheaddistillery.com
+2F121411160000E1,Mike Curphy Distillery,2731 Via Orange Way suite 104,Spring Valley,Ca,,,,"6193162009",8 oz,Mcdistillery.com
+2F121411160000E2,RHS Royal Hawaii Spirits Distillery,1210 Dillingham Blvd Ste 25A,Honolulu,Hawaii,,,,"8087629497","375ml,750 ml",https://www.rhsdistillery.com
+2F121411160000E3,Cathead Distillery,422 S Farish st,Jackson,MS,,,,"6016673038",2 oz & 16 oz,Catheaddistillery.com
+2F121411160000E4,R6 DISTILLERY,909 E. El Segundo Blvd.,El Segundo,California,,,,"4242771134",TBD,www.r6distillery.com
+2F121411160000E5,Copperwing Distillery,6409 Cambridge street,Saint Louis Park,MN,,,,"7158081121","2oz, 8oz, refills and bulk",Www.copperwingdistillery.com
+2F121411160000E6,10th Mountain Whiskey & Spirit Co.,500 Trail Gulch Rd,Gypsum,CO,,,,"9705242580",4oz or bring your own bottle,10thWhiskey.com
+2F121411160000E7,Cultivated Cocktails,204 Charlotte Hwy,ASHEVILLE,NC,,,,"8283389779",4oz and 1L,www.cultivated-cocktails.com
+2F121411160000E8,Mystic Farm & Distillery,1212 N MINERAL SPRINGS RD,DURHAM,NC,,,,"9198081835","1 gallon, 5 gallon, 55 gallon",Whatismystic.com
+2F121411160000E9,Loup River Distilling,503 Howard Avenue,Saint Paul,NE,,,,"3087542242",750ml and hopefully 2 oz bottle,loupriverdistilling.net
+2F121411160000EA,Kilimanjaro Distillery LLC,995 Postal Rd,Allentown 18109,PA,,,,484 661 2488,4oz & 63oz (1/2 Gallon),XplorerSpirits.com
+2F121411160000EB,SILO Distillery,3 Artisans Way,Windsor,VT,,,,"8026744220","Up to 16 ounce self serve, bring your own bottle right now",Www.silodistillery.com
+2F121411160000EC,Silverback Distillery,9520 Rockfish Valley Highway,Afton,Virginia,,,,540-456-7070,"2 oz, 4 oz",sbdistillery.com
+2F121411160000ED,Copper moon distillery inc,69 Parker street,Indian orchard,Mass,,,,"4132047110",4-8 oz,Coppermoondistillery.com
+2F121411160000EE,Cotton & Reed Rum Distillery,1330 5th St NE,Washington,DC,,,,"2025442805",2oz,cottonandreed.com
+2F121411160000EF,Old Fourth Distillery,487 Edgewood Ave,Atlanta,Ga,,,,"4049642533",8oz 1gal 5gal 270gal totes,www.o4d.com
+2F121411160000F0,"Lost & Found Distillery, Inc DBA Misadenture & Co.",2420 Grand Ave. STE C,Vista,CA,,,,760-216-6930,"4 oz; 8 oz",mcohandsanitizer.com
+2F121411160000F1,Short Path Distillery,71 Kelvin Street,Everett,MA,,,,(617) 830-7954,"2 oz, 1 gallon",shortpathdistillery.com
+2F121411160000F2,Hatch Distilling Co.,7740 HWY 42,Egg Harbor,Wisconsin,,,,920-212-8336,4 oz,www.hatchdistilling.com
+2F121411160000F3,Shire Distilling Co.,505 Bains St ste 303,Brookshire,TX,,,,281-375-9151,looking at 2oz or 4oz,www.shiredistilling.com
+2F121411160000F4,Heritage Distilling Company,3118 Harborview Drive,Gig Harbor,WA,,,,253-514-8120,"8oz, 750mL, 1L",www.HeritageDistilling.com
+2F121411160000F5,Dry Fly Distilling,"1003 E Trent, #200",Spokane,WA,,,,"5094892112",4 to 24 ounce spray.,www.dryflydistilling.com
+2F121411160000F6,Goleta Red Distilling Company,93 CASTILIAN DR # W1,GOLETA,CA - California,,,,805-335-1740,2 oz,http://www.goletared.com
+2F121411160000F7,Gulf Coast Distillers,"5610",HOUSTON,Texas,,,,Please contact only C4U@gulfcoastdistillers.com for the hand sanitizer,"32 oz, liter, 750 ml, 5 gal...",www.gulfcoastdistillers.com
+2F121411160000F8,Sugarfield Spirits,481 W. Eastbank,Gonzales,LA,,,,,8oz bring your own bottle,www.sugarfieldspiritsla.com
+2F121411160000F9,Cedar Ridge Distillery,1441 Marak Rd.,Swisher,Iowa,,,,"3198574300",Sizing varies,www.crdistillery.com
+2F121411160000FA,Portuguese Bend Distilling,300 The Promenade North,Long Beach,CA,,,,"5624354411","2 oz for give away, specify by order for sale",www.portuguesebenddistilling.com
+2F121411160000FB,Spiritopia,720 NE Granger Ave Bldg B,Corvallis,OR,,,,"5419900337",2oz,Spiritopia.com
+2F121411160000FC,Mastrogiannis Distillery,8016 Durango ST SW #B10,Lakewood,WA,,,,"2067019202","2 oz, 16 oz.",www.mastrogiannisdistillery.com
+2F121411160000FD,Spirit Works Distillery,"6790 McKinley st., #100, Sebastopol, CA, 95472",Sebastopol,CA,,,,"17076344793",1 liter bottles,www.spiritworksdistillery.com
+2F121411160000FE,Red Pump Spirits,32 N Main Street,Washington,PA,,,,724-249-2721,200 ml,www.redpumpspirits.com
+2F121411160000FF,Kalamazoo Stillhouse,618 E Michigan Ave,Kalamazoo,MI,,,,"2063760937",2oz,www.kalamazoostillhouse.com
+2F12141116000100,Spirit Hound Distillers,4196 Ute Highway 1894,Lyons,CO,,,,"3037755410",Varies,www.spirithounds.com
+2F12141116000101,Verdi Local Distillery,1155 US HWY 40 - Unit B,Verdi,Nevada,,,,"7752474628",50ml,Verdilocaldistillery.com
+2F12141116000102,Blackland Distillery,2616 Weisenberger Street,Fort Worth,Texas,,,,"6822685333",8 oz and gallon,www.blacklandfw.com
+2F12141116000103,Tattersall Distilling Company,"1620 Central Ave NE, Ste 150",Minneapolis,MN,,,,,,Tattersalldistilling.com
+2F12141116000104,Ann Arbor Distilling Co.,220 Felch St.,Ann Arbor,Michigan,,,,734 239 3586,8oz and 1L,www.annarbordistilling.com
+2F12141116000105,Seven Troughs Distilling,1155 Watson Way No 6,Sparks,Nv,,,,775-525-9350,Various,Wew.7troughsdistilling.com
+2F12141116000106,Heritage Distilling Co.,110 Madison St.,Eugene,Oregon,,,,(541) 357-4431,Various Sizes,https://heritagedistilling.com/
+2F12141116000107,Denny Bar Company,511 Main St.,Etna,CA,,,,(530) 467-5115,"Currently 2 oz. bottles, with plans to produce 1 gal & 5 gal options",www.dennybarcompany.com
+2F12141116000108,Boot Hill Distillery,501 W. Spruce St.,Dodge City,KS,,,,"6203716309",3-4oz and Larger Quantities for health care.,www.boothilldistillery.com
+2F12141117000109,Republic Restoratives,1369 New York Ave NE,washington,District of Columbia,,,,"5184416177",Bottles are the supply chain choke point right now. We are using 2oz bottles but they are sold out or running out everywhere. We're currently working to procure larger gallon pump bottles for first responders etc,www.republicrestoratives.com
+2F1214111700010A,Adrift Distillers,409 Sid Snyder Drive,Long Beach,Washington,,,,"3602449672","2 oz, 4 oz, 5 gal",www.adriftdistillers.com
+2F1214111700010B,Yahara Bay Distillers,"6250 Nesbitt Road, #200",Fitchburg,WI,,,,"6082781921",1 Liter,yaharabay.com
+2F1214111700010C,Elevation 5003 Distillery,2601 South Lemay Avenue,Fort Collins,Colorado,,,,"9705688356",2 oz,www.elevation5003.com
+2F1214111700010D,Rollins Distillery,5680 Gulf Breeze Pkwy,Gulf Breeze,Florida,,,,"8505031275",2oz,www.rollinsdistillery.com
+2F1214111700010E,Devils Creek Distillery,123 Commerce B8,Mammoth Lakes,CA,,,,760-279-3670,Various,www.devilscreekdistillery.com
+2F1214111700010F,Bellewood Distilling,6140 Guide Meridian,Lynden,Washington,,,,360-318-7720,2.7 oz,bellewooddistilling.com
+2F12141117000110,McClintock Distilling,35 South Carroll Street,Frederick,MD,,,,"2025579914","8 ounce, 10 liter",www.mcclintockdistilling.com
+2F12141117000111,In the welsh wind,Tanagroes,Cardigan,Ceredigion,,,,"7814354786",50ml and 250ml or 25ltr can up to 1000ltrs,Www.inthewelshwind.co.uk
+2F12141117000112,Grand Traverse Distillery,"781 Industrial Circle, STE 5",Traverse City,MI,,,,231-947-8635,"6 oz bottles and 1-5 gallon jugs (city departments, hospitals, etc)",www.GrandTraverseDistillery.com
+2F12141117000113,Kennay Farms Distilling,416 Lincoln Highway,Rochelle,Illinois,,,,"8159011512","750 ml bottles, 250 gallon totes",kennayfarmsdistilling.com
+2F12141117000114,S&B Farms Distillery,212 E Ramsey st,Bancroft,Iowa,,,,515-885-1030,starting out at 20 gallons a batch and will increase with demand,sbfarmsdistillery.com
+2F12141117000115,Independent Spirits Distillery,131 davidson Road,Woolwich Township,NJ,,,,609 202 5458,"all, containers are unavailable. People bring their own",isdistillery.com
+2F12141117000116,Moonrise Distillery,31 Webb Road,Clayton,Georgia,,,,"8449944759","100ml, 5 gallon",Moonrisedistillery.com
+2F12141117000117,Local Goat Distillery,607 N Houston st,Granbury,TX,,,,"6822051277","2oz, 1 gallon",www.localgoatdistillery.com
+2F12141117000118,Green Door Distilling Co.,429 E North St,Kalamazoo,Michigan,,,,(269) 205-3398,"4oz spray contains, as well as a bulk",https://greendoordistilling.com/
+2F12141117000119,Big cypress distillery,13995 sw 144 ave,Miami,FL,,,,786 228 9740,1 - 5 gallon,Www.bigcyressdistillery.com
+2F1214111700011A,Temple Distilling,19231 36th Ave W,Lynnwood,WA,,,,"4256788620","2 oz for public, 1L and 5 Gallon for hospitals",www.templedistilling.com
+2F1214111700011B,"Elixir, Inc.",1050 Bethel Dr. #F3,Eugene,Oregon,,,,"5413452257",16 Oz.,www.elixircraftspirits
+2F1214111700011C,Northern waters distillery,8136 US-51,Minocqua,Wi,,,,715-358-0172,Various,www.northernwatersdistillery.com
+2F1214111700011D,Koltiska Distillery,644 Crook street,Sheridan,WY,,,,307-673-7307,2-128 oz,www.koltiska.com
+2F1214111700011E,Black Button Distilling,85 Railroad Street,Rochester,NY,,,,,750 ml bottles,www.blackbuttondistilling.com
+2F1214111700011F,Duckworth Distillery,"3737 Atwell St., Suite 203",Dallas,Texas,,,,214 444-7666,8 Ounce in a sparay bottle.,https://www.duckworthvodka.com/
+2F12141117000120,Kozuba & Sons Distillery,1960 5th Ave S,Saint Petersburg,FL,,,,"7272019078",8 oz,www.kozubadistillery.com
+2F12141117000121,Tarpon Springs Distillery,605 N. Pinellas Ave,Tarpon Springs,FL,,,,727-940-2045,"6oz for individuals, 16oz or more for nursing homes, home health, first responders",www.tarponspringsdistillery.net
+2F12141117000122,Cleveland Whiskey,1768 E.25th St,Cleveland,OH,,,,"2168818481","500 Gallons to start, more to come",clevelandwhiskey.com
+2F12141117000123,"Hot Springs Distilling, LLC",121 Ross Street,Hot Springs,AR,,,,"5017813187",None at the moment.. will start about April 15,http://www.hotspringsdistilling.com
+2F12141117000124,Devils Creek DIstillery,"123 Commerce, Unit B-8",Mammoth Lakes,CA,,,,"9499818454","8 oz, 16oz and 1 gallon",www.devilscreekdistillery.com
+2F12141117000125,Copper Still Distillery,1600 Acoma Blvd W Unit 65,Lake Havasu City,Arizona,,,,"9287335004",50 ml,www.copperstilldistillery.com
+2F12141117000126,The Adirondack Distilling Company,601 Varick St,Utica,NY,,,,315 316 0387,4oz,Adirondackdistilling.com
+2F12141117000128,High Mark Distillery/ High Mark Barrel House,"4690 Longley Lane, Unit 28",Reno,Nevada,,,,775.622.9188 or 907.355.3492,"2.7oz, 8 oz We will be selling 4oz, and 16oz if we can source more plastic bottles to put it in.",www.highmarkdistillery.com
+2F12141117000129,"Crostwater (Holy Water Distillery, LLC)",506 INDUSTRIAL DRIVE,LEWISBERRY,PENNSYLVANIA,,,,"7178848493",2 oz and 4 oz,www.crostwater.com
+2F1214111700012A,Pine Bluffs Distilling,322 North Beech St,Pine Bluffs,WY,,,,"3072453000",50 Gallons,pinebluffsdistilling.com
+2F1214111700012B,Taconic Distillery,179 Bowen Rd,Stanfordville,NY,,,,"8453934583",750 mL,Www.taconicdistillery.com
+2F1214111700012C,Journeyman Distillery,109 Generations Dr.,Three Oaks,MI,,,,"2698202050",100ml and 1.75L,www.journeymandistillery.com
+2F1214111700012D,Alpine Distilling,7132 N Silver Creek Road,Park City,Utah,,,,435-200-9537,One Per Customer in Summit County,www.alpinedistilling.com
+2F1214111700012E,Norseman Distillery,451 TAFT ST NE STE 19,MINNEAPOLIS,MN,,,,"6125686299",50ml and Liters.,norsemandistillery.com
+2F1214111700012F,MAnifest Distilling,960 E. Forsyth St.,JACKSONVILLE,FL,,,,"9046191479",Various,www.manifestdistilling.com
+2F12141117000130,Copperworks Distilling Co,1250 Alaskan Way,Seattle,WA,,,,206-504-7604,8 oz to 5 gallon,http://copperworksdistilling.com/
+2F12141117000131,Spring44 Distilling,505 W. 66th St,Loveland,Colorado,,,,970-414-0744,50mL,www.spring44.com
+2F12141117000132,Old Herald Brewery & Distillery,115 E Clay,Collinsville,IL,,,,"6188558027",Bulk and 4oz containers,Oldheraldbrewing.com
+2F12141117000133,Hope Springs Distillery,4839 Railroad Ave,Lilburn,GA,,,,770-861-6397,8 oz or as requested,HopeSpringsDistillery.com
+2F12141117000134,Karrikin Spirits Co.,3717 Jonlen Drive,Cincinnati,OH,,,,"6064020038",4 & 6 oz bottles and sale per ounce,karrikinspirits.com
+2F12141117000135,Leatherwood Distillery,,Pleasant View,TN,,,,"9318013364",8oz bottles,leatherwooddistillery@gmail.com
+2F12141117000136,TownsEnd Stillhouse,22020 US Highway 18,Apple Valley,CA,,,,760-961-9676,2 oz containers,www.townsendstillhouse.com
+2F12141117000137,Nashoba Valley Distilllery,100 WATTAQUADOCK HILL ROAD,BOLTON,MA,,,,"9787795521",,https://nashobadistillery.com/
+2F12141117000138,Dry Diggings Distillery,5050 Robert J Mathews Pkwy,El Dorado Hills,CA,,,,(530) 313-4000,,www.drydiggings.com
+2F12141117000139,Northern Latitudes Distillery,112 E Philip St,Lake Leelanau,MI,,,,"2312562700",1 gallon for institutions and 4 ounces for the general public,www.nldistillery.com
+2F1214111700013B,Vikre Distillery,525 S. Lake Ave Suite 102,Duluth,MN,,,,"2184817401",8 oz (personal) 1 gallon (business),www.vikredistillery.com
+2F1214111700013C,Dirty Water Distillery,10 WATER STREET,PLYMOUTH,MA,,,,(508)927-3260,"2-3oz for individuals, 1-2gal for organizations",www.dirtywaterdistillery.com
+2F1214111700013D,Vara/Taylor Garrett Spirits,315 Alameda Blvd NE,Albuquerque,NM,,,,505 898-6280,"2 oz, or fill supplied container up to 8 oz",Taylorgarrettspirits.com varawines.com
+2F1214111700013E,Traverse City Whiskey Co.,201 E Fourteenth St,Traverse City,Michigan,,,,"2319228292",200ml for now,Tcwhiskey.com
+2F1214111700013F,Oligan Distilling,918 Albany Shaker RD,Latham,NY,,,,518-937-5947,"We make ~180 gallons of 190+ proof alcohol every two weeks. We are not selling sanitizer directly, rather we can supply raw material for anyone manufacturing finished products.",N/A
+2F12141117000140,Arizona Craft Beverage/Elgin Distillery,473 Elgin Rd,Elgin,AZ,,,,"5203693421",4oz to 5 gallon pail,Elginwd.com
+2F12141117000141,Marian Farms,2305 n. Rolinda,Fresno,Ca,,,,559-276-6185,,Marianfarmsbiodynamic.com
+2F12141117000142,Golden Moon Distillery,412 Violet Street,Golden,CO,,,,303-993-7174,Multiple,goldenmoondistillery.com
+2F12141117000143,Ferino Distillery,541 East 4th St.,Reno,NV,,,,775-433-2033,TBD - we are currently collecting material for production.,ferinodistillery.com
+2F12141117000144,Catoctin Creek,120 W Main St,Purcellville,VA,,,,540-751-8404,6 oz,www.catoctincreek.com
+2F12141117000145,Oregon Spirit Distillers,740 NE 1st Street,Bend,Oregon,,,,541-382-0002,8oz,www.oregonspiritdistillers.com
+2F12141117000146,Crescendo Spirits,4065 W 11th Ave #47,Eugene,Oregon,,,,"5412557643",4 oz at the moment,www.crescendospirits.com
+2F12141117000147,Illume Spirits,4101 W. Green Oaks Blvd.,Arlington,Texas,,,,"8882102465",Haven’t started,None
+2F12141117000148,LYON RUM DISTILLERY,605 S Talbot St #6,Saint Michaels,MD,,,,"4433339181",large format for GOVERMENT AGENCIES,lyonrum.com
+2F12141117000149,Pacific Coast Spirits,404 S. Coast Hwy.,Oceanside,Ca,,,,"7604537150",2oz. Can also package in 750ml.,paccoastspirits.com
+2F1214111700014A,Kings County Distillery,63 Flushing Ave,Brooklyn,New York,"11205",NY,unit 379,,,
+2F1214111700014B,Reservoir Distillery,1800 A Summit Ave,Richmond,Virginia,"23230",VA,,,,
+2F1214111700014C,Twin Stills Moonshine,5506 Sound Ave,Riverhead,New York,"11901",NY,,,,
+2F1214111700014D,Saint Lawrence Spirits,38289 NYS RT 12E,Clayton,New York,"13624",NY,,,,
+2F1214111700014E,Sugar House Distillery,"2212 S. West Temple, Unit #14",Salt Lake City,Utah,"84115",UT,,,,
+2F1214111700014F,Loaded Cannon,3115 Lakewood Ranch Blvd,Bradenton,Florida,"34211",FL,suite 110,,,
+2F12141117000150,GrantView Distillery,6969 S Main St,Rockford,Illinois,"61102",IL,,,,
+2F12141117000151,Saxtons River Distillery,485 West River Rd,Brattleboro,Vermont,"5301",VT,,,,
+2F12141117000152,Red Fork Distillery,3310 Southwest blvd,Tulsa,Oklahoma,"74107",OK,,,,
+2F12141117000153,Copper Fiddle Distillery,"532 W IL Route 22, Ste. 110",Lake Zurich,Illinois,"60047",IL,,,,
+2F12141117000154,Doc Porter's Distillery,232 E Peterson Dr,Charlotte,North Carolina,"28217",NC,,,,
+2F12141117000155,Jackson Hole Still Works,3940 South Eagle View Drive,Jackson,Wyoming,"83001",WY,,,,
+2F12141117000156,Three Crosses Distilling Company,3835 Old Buckingham Road,Powhatan,Virginia,"23139",VA,suite A,,,
+2F12141117000157,Great Lakes Distillery,616 West Virginia St,Milwaukee,Wisconsin,"53204",WI,,,,
+2F12141117000158,Maplewood Brewery & Distillery,2717 N Maplewood Ave,Chicago,Illinois,"60647",IL,,,,
+2F12141117000159,Hye Rum,11247 US Hwy 290 W,Hye,Texas,"78635",TX,,,,
